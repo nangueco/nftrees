@@ -1,0 +1,17 @@
+{
+  "name": "Nangu Trees",
+  "symbol": "NANGU",
+  "description": "Nangu NFTs",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "animation_url": "0.html?date=1231321&txhash",
+  "attributes": [],
+  "properties": {
+    "creators": [{ "address": "GeLbe78kukFPKfLF5PVEefcbjmhrAGs1A5VxBTU7aWKb", "share": 100 }],
+    "files": [
+      { "uri": "0.png", "type": "image/png" },
+      { "uri": "0.html", "type": "text/html" }
+    ]
+  },
+  "collection": { "name": "trees", "family": "nangu" }
+}
